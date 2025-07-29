@@ -1,0 +1,18 @@
+.red-back {
+    background-color: #ff000050;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#big-blue{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.font{
+    font-size: 24px;
+}
+
+#special{
+    background-color: #90EE9060;
+    font-weight: bold;
+}
